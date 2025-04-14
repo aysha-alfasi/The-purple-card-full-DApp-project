@@ -1,0 +1,26 @@
+{
+  "canisters": {
+    "thepurplecard_backend": {
+      "main": "src/thepurplecard_backend/main.mo",
+      "type": "motoko"
+    },
+    "thepurplecard_frontend": {
+      "dependencies": [
+        "thepurplecard_backend"
+      ],
+      "source": [
+        "src/thepurplecard_frontend/dist"
+      ],
+      "type": "assets",
+      "workspace": "thepurplecard_frontend"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
