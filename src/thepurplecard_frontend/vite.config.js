@@ -7,7 +7,11 @@ import dotenv from 'dotenv';
 dotenv.config({ path: '../../.env' });
 
 export default defineConfig({
+  base: '/',
+  publicDir: 'public',
+  root: '.', // 👈 هنا التعديل المهم
   build: {
+    outDir: 'dist',
     emptyOutDir: true,
   },
   optimizeDeps: {
