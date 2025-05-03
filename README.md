@@ -1,13 +1,12 @@
 # The Purple Card <💜💭/>
 
-Capture every fleeting thought on a purple card so it doesn't get lost and can come true one day!💡💜  
-Users can create, edit, delete, and celebrate finished ideas with a cheerful popup that makes everything feel magical! 🎊
+Capture every fleeting thought on a purple card so it doesn't get lost and can come true one day!💡💜 
 
 The app is built on **React** for the frontend, with some magical backend logic using **Motoko** on **DFINITY's Internet Computer** 🧠💻
 
 Before this full-stack DApp came together, I first built the frontend with **React**. Check out the **exciting phases** of the frontend development in my [React Frontend Repository](https://github.com/aysha-alfasi/The-purple-card-frontend/commits/master/)🎨. That’s where the journey began!
 
-Now, in this repo, you’re exploring the full-stack experience! 🌟  
+In this repo, you’re exploring the full-stack experience! 🌟  
 
 ## visual overview 🍓 
 
